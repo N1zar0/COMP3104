@@ -1,0 +1,13 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": ["devops","node.js","express","web"],
+  "author": "Nizar Atassi (101297716)",
+  "license": "ISC"
+}
